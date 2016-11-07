@@ -1,6 +1,6 @@
 # BraidedJunctions
 
-This package has been developed to carry out basic computations for string junctions and torus knots/links. It contains functions used in [arXiv:16xx.xxxxx] by Antonella Grassi, Jim Halverson, Fabian Ruehle and Julius Shaneson. It was written by Fabian Ruehle.
+This package has been developed to carry out basic computations for string junctions and torus knots/links. It contains functions used in [arXiv:1611.01154] by Antonella Grassi, Jim Halverson, Fabian Ruehle and Julius Shaneson. It was written by Fabian Ruehle.
 
 To install the package copy the BraidedJunctions.m file to the $UserBaseDirectory directory of your Mathematica installation (run $UserBaseDirectory in Mathematica to see the path). Or just put it somewhere else where Mathematica can find it. All functions come with a help which can be accessed from within mathematica by executing ?functionName
 
